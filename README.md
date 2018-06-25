@@ -1,5 +1,4 @@
 # mlearning
 
-updated description
-
-add new description by mshen040
+Machine Learning in Python Step by Step - 180625
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
